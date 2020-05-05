@@ -4,43 +4,50 @@
         "id": 1,
         "nombre": "El sexto sentido",
         "director": "M. Night Shyamalan",
-        "clasificacion": "Drama"
+        "clasificacion": "Drama",
+        "url": "https://pics.filmaffinity.com/El_sexto_sentido-351070748-large.jpg"
       },
       {
         "id": 2,
         "nombre": "Pulp Fiction",
         "director": "Tarantino",
-        "clasificacion": "Acción"
+        "clasificacion": "Acción",
+        "url": "https://pics.filmaffinity.com/Pulp_Fiction-210382116-mmed.jpg"
       },
       {
         "id": 3,
         "nombre": "Todo Sobre Mi Madre",
         "director": "Almodobar",
-        "clasificacion": "Drama"
+        "clasificacion": "Drama",
+        "url": "https://pics.filmaffinity.com/Todo_sobre_mi_madre-719308624-large.jpg"
       },
       {
         "id": 4,
         "nombre": "300",
         "director": "Zack Snyder",
-        "clasificacion": "Acción"
+        "clasificacion": "Acción",
+        "url": "https://pics.filmaffinity.com/300-291772315-large.jpg"
       },
       {
         "id": 5,
         "nombre": "El silencio de los corderos",
         "director": "Jonathan Demme",
-        "clasificacion": "Drama"
+        "clasificacion": "Drama",
+        "url": "https://pics.filmaffinity.com/El_silencio_de_los_corderos-709332889-large.jpg"
       },
       {
         "id": 6,
         "nombre": "Forrest Gump",
         "director": "Robert Zemeckis",
-        "clasificacion": "Comedia"
+        "clasificacion": "Comedia",
+        "url": "https://pics.filmaffinity.com/Forrest_Gump-212765827-large.jpg"
       },
       {
         "id": 7,
         "nombre": "Las Hurdes",
         "director": "Luis Buñuel",
-        "clasificacion": "Documental"
+        "clasificacion": "Documental",
+        "url": "https://pics.filmaffinity.com/Las_Hurdes_Tierra_sin_pan-618902623-mmed.jpg"
       }
     ]
   }
